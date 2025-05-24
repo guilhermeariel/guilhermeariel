@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm a Computer Science graduate passionate about backend d
 </a>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/guilhermeariel/guilhermeariel/output/github-contribution-grid-snake.svg)
+
 
 
