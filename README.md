@@ -2,7 +2,9 @@
 
 Welcome to my GitHub! I'm a Computer Science graduate passionate about backend development, data engineering, and building scalable, data-driven systems. Currently, I work as a Technical Consultant at Management Solutions, where I help deliver robust data solutions using **Apache Spark**, **Databricks**, **SQL**, and **Python**.
 
-<img align="right" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="150" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ## Contact with me!
 <div>
