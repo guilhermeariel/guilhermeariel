@@ -23,17 +23,12 @@ Welcome to my GitHub! I'm a Computer Science graduate passionate about backend d
 </a>
 </div>
 
-## 📚 Education & Certifications
-
-- 🎓 B.Sc. in Computer Science – Universidade Paulista (UNIP)
-- 🎓 Technical Degree in Construction – SENAI
-- 📘 Courses: Python for Data Science, Microsoft SQL Server, Data Warehousing (Alura)
 
 ## 📫 Contact
+<div>
+<a href = "mailto:gmachado.ariel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://vwww.linkedin.com/in/guilherme-ariel-machado-1432228a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-- 📧 [ariel.gmachado@hotmail.com](mailto:ariel.gmachado@hotmail.com)
-- 🌎 São Paulo, Brazil
-
----
 
 ![Snake animation](https://github.com/guilhermeariel/guilhermeariel/blob/output/github-contribution-grid-snake.svg)
