@@ -17,6 +17,11 @@ Welcome to my GitHub! I'm a Computer Science graduate passionate about backend d
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+
 ## GitHub Stats
 <div>
 <a href="https://github.com/guilhermeariel">
