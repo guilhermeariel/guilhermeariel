@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Computer Science graduate passionate about backend d
 ## Contact with me!
 <div>
 <a href = "mailto:gmachado.ariel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://vwww.linkedin.com/in/guilherme-ariel-machado-1432228a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/guilherme-ariel-machado-1432228a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## My Stack
