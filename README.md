@@ -1,6 +1,6 @@
 # Hello, I'm Guilherme Ariel Machado
 
-Welcome to my GitHub! I'm a Computer Science graduate passionate about backend development, data engineering, and building scalable, data-driven systems. Currently, I work as a Technical Consultant at Management Solutions, where I help deliver robust data solutions using **Apache Spark**, **Databricks**, **SQL**, and **Python**.
+Welcome to my GitHub! I'm a Computer Science graduate passionate about backend development, data engineering, and building scalable, data-driven systems. Currently, I work as a Technical Consultant at Management Solutions, where I help deliver robust data solutions using **JAVA**, **Databricks**, **SQL**, and **Python**.
 
 ## Contact with me!
 <div>
